@@ -1027,5 +1027,4 @@ for i in cases:
             break
 print(counter)
 print(counter2)
-
 print(time.time()-st)
